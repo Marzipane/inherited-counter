@@ -1,4 +1,8 @@
 # flutter_inherited
+PREVIEW: 
+https://user-images.githubusercontent.com/84333332/179390882-278a1c67-9ad7-4362-aa0e-263fd9009b60.mp4
+
+
 
 A new Flutter project.
 
